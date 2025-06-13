@@ -1,7 +1,7 @@
 # Real Estate Tokenization Platform
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Solidity CI](https://github.com/KAMBALENGUNUNU/real-estate-tokenization/actions/workflows/solidity_ci.yml/badge.svg)](https://github.com/KAMBALENGUNUNU/real-estate-tokenization/actions/workflows/solidity_ci.yml)
+[![Solidity CI](https://github.com/AvTe/Real-Estate-Tokenization-DEX-Platform/actions/workflows/solidity_ci.yml/badge.svg)](https://github.com/AvTe/Real-Estate-Tokenization-DEX-Platform/actions/workflows/solidity_ci.yml)
 <!-- Add other badges like build status, PRs welcome, etc. -->
 
 This project is a decentralized real estate tokenization platform built on the Ethereum blockchain. It allows properties to be tokenized into ERC-721 Non-Fungible Tokens (NFTs), enabling features like fractional ownership (conceptually, though ERC-721 is whole ownership per token), dynamic valuation updates using Chainlink oracles, and rental income distribution to token holders.
@@ -101,8 +101,8 @@ Ensure you have the following installed:
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/KAMBALENGUNUNU/real-estate-tokenization.git
-    cd real-estate-tokenization
+    git clone https://github.com/AvTe/Real-Estate-Tokenization-DEX-Platform.git
+    cd Real-Estate-Tokenization-DEX-Platform 
     ```
 2.  **Install NPM packages**:
     ```bash
@@ -152,7 +152,7 @@ Other users (token holders) can:
 *   [ ] **Legal Framework Integration**: Explore connections with legal frameworks for real-world asset tokenization.
 *   [ ] **Advanced Oracle Usage**: Utilize more complex oracle data for property management (e.g., maintenance costs, occupancy rates).
 
-See the [open issues](https://github.com/KAMBALENGUNUNU/real-estate-tokenization/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/AvTe/Real-Estate-Tokenization-DEX-Platform/issues) for a full list of proposed features (and known issues).
 
 ## Contributing
 
@@ -175,7 +175,7 @@ Distributed under the MIT License. See `LICENSE` file for more information. (Not
 
 Your Name / Organization - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
 
-Project Link: [https://github.com/KAMBALENGUNUNU/real-estate-tokenization](https://github.com/KAMBALENGUNUNU/real-estate-tokenization)
+Project Link: [https://github.com/AvTe/Real-Estate-Tokenization-DEX-Platform](https://github.com/AvTe/Real-Estate-Tokenization-DEX-Platform)
 
 ## Acknowledgments
 
@@ -183,12 +183,11 @@ Project Link: [https://github.com/KAMBALENGUNUNU/real-estate-tokenization](https
 *   Chainlink
 *   Ethereum Community
 *   [README Template by Othneil Drew](https://github.com/othneildrew/Best-README-Template) (If you used one as inspiration)
-
 ```<!-- filepath: c:\Users\amitv\Downloads\real-estate-tokenization-master\real-estate-tokenization-master\README.md -->
 # Real Estate Tokenization Platform
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Solidity CI](https://github.com/KAMBALENGUNUNU/real-estate-tokenization/actions/workflows/solidity_ci.yml/badge.svg)](https://github.com/KAMBALENGUNUNU/real-estate-tokenization/actions/workflows/solidity_ci.yml)
+[![Solidity CI](https://github.com/AvTe/Real-Estate-Tokenization-DEX-Platform/actions/workflows/solidity_ci.yml/badge.svg)](https://github.com/AvTe/Real-Estate-Tokenization-DEX-Platform/actions/workflows/solidity_ci.yml)
 <!-- Add other badges like build status, PRs welcome, etc. -->
 
 This project is a decentralized real estate tokenization platform built on the Ethereum blockchain. It allows properties to be tokenized into ERC-721 Non-Fungible Tokens (NFTs), enabling features like fractional ownership (conceptually, though ERC-721 is whole ownership per token), dynamic valuation updates using Chainlink oracles, and rental income distribution to token holders.
@@ -288,8 +287,8 @@ Ensure you have the following installed:
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/KAMBALENGUNUNU/real-estate-tokenization.git
-    cd real-estate-tokenization
+    git clone https://github.com/AvTe/Real-Estate-Tokenization-DEX-Platform.git
+    cd Real-Estate-Tokenization-DEX-Platform 
     ```
 2.  **Install NPM packages**:
     ```bash
@@ -339,7 +338,7 @@ Other users (token holders) can:
 *   [ ] **Legal Framework Integration**: Explore connections with legal frameworks for real-world asset tokenization.
 *   [ ] **Advanced Oracle Usage**: Utilize more complex oracle data for property management (e.g., maintenance costs, occupancy rates).
 
-See the [open issues](https://github.com/KAMBALENGUNUNU/real-estate-tokenization/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/AvTe/Real-Estate-Tokenization-DEX-Platform/issues) for a full list of proposed features (and known issues).
 
 ## Contributing
 
@@ -360,9 +359,8 @@ Distributed under the MIT License. See `LICENSE` file for more information. (Not
 
 ## Contact
 
-Your Name / Organization - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
 
-Project Link: [https://github.com/KAMBALENGUNUNU/real-estate-tokenization](https://github.com/KAMBALENGUNUNU/real-estate-tokenization)
+Project Link: [https://github.com/AvTe/Real-Estate-Tokenization-DEX-Platform](https://github.com/AvTe/Real-Estate-Tokenization-DEX-Platform)
 
 ## Acknowledgments
 
